@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cube-explorer/static/css/main.de84e539.css",
+    "main.js": "/cube-explorer/static/js/main.fe0eea55.js",
+    "index.html": "/cube-explorer/index.html",
+    "main.de84e539.css.map": "/cube-explorer/static/css/main.de84e539.css.map",
+    "main.fe0eea55.js.map": "/cube-explorer/static/js/main.fe0eea55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de84e539.css",
+    "static/js/main.fe0eea55.js"
+  ]
+}
